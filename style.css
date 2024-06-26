@@ -57,6 +57,8 @@ input{
 
 button{
     width: 110px;
+    margin-bottom: 0.7rem;
+    margin-right: 0.7rem;
     border: none;
     outline: none;
     padding: 16px 15px;
